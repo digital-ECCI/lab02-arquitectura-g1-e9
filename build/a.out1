@@ -1,0 +1,18 @@
+**** module/scope: sum_cuatro_bit
+     Flip-Flops   : 0
+     Logic Gates  : 0
+**** module/scope: sum_cuatro_bit.sum_cuatro
+     Flip-Flops   : 0
+     Logic Gates  : 5
+**** module/scope: sum_cuatro_bit.sum_dos
+     Flip-Flops   : 0
+     Logic Gates  : 5
+**** module/scope: sum_cuatro_bit.sum_tres
+     Flip-Flops   : 0
+     Logic Gates  : 5
+**** module/scope: sum_cuatro_bit.sum_uno
+     Flip-Flops   : 0
+     Logic Gates  : 5
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 20

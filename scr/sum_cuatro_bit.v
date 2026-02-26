@@ -1,3 +1,4 @@
+`include "./scr/sum_un_bit_uno.v"
 
 module sum_cuatro_bit(
     input [3:0]a,
