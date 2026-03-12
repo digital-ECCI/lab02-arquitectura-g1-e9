@@ -41,6 +41,9 @@ El diseño utiliza dos instancias de 4 bits de suma (SUMA y RESTA) para obtener 
 
 ### 1. Simulación del sumador/restador
 
+![imaganes](/imagenes/grafico.jpeg)
+
+
 #### 1.1 Descripción
 
 El circuito implementa un sumador/restador de 4 bits en FPGA, utilizando como base sumadores completos de 1 bit conectados en cascada. La selección entre suma o resta se controla con la señal sel, que modifica las entradas de B por medio de compuertas XOR para generar el complemento a dos en caso de resta.
